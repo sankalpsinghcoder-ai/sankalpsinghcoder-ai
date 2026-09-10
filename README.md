@@ -1,4 +1,4 @@
-### Hi, I'm Sankalp Singh 👋
+### Hi, I'm [Your Name] 👋
 
 I build web applications and backend systems, mostly working across the JavaScript ecosystem and Python. 
 
@@ -10,11 +10,5 @@ I build web applications and backend systems, mostly working across the JavaScri
 
 ### Tech & Tools
 
-**Frontend & Frameworks**
-`Astro` `HTML5` `CSS3` `JavaScript` `TypeScript`
+[![My Skills](https://skillicons.dev/icons?i=astro,cloudflare,html,css,js,ts,nodejs,powershell,py,sqlite,redis)](https://skillicons.dev)
 
-**Backend & Databases**
-`Node.js` `Python` `SQLite` `Redis`
-
-**Infrastructure & Scripting**
-`Cloudflare` `PowerShell`
