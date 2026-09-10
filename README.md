@@ -35,10 +35,8 @@ I'm a student building full-stack web applications while diving deep into networ
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sankalpsinghcoder-ai&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpsinghcoder-ai&layout=compact&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sankalpsinghcoder-ai&theme=dark)](https://git.io/streak-stats)
 
 ---
