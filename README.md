@@ -1,4 +1,4 @@
-### Hi, I'm [Sankalp Singh] 👋
+### Hi, I'm Sankalp Singh 👋
 
 I'm a student building full-stack web applications while diving deep into networking and automation. I also bring a year of hands-on experience in SEO and keyword research to make sure what I build actually gets found. 
 
