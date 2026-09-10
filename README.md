@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Sankalp Singh 👋
 
-<!--
-**sankalpsinghcoder-ai/sankalpsinghcoder-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web applications and backend systems, mostly working across the JavaScript ecosystem and Python. 
 
-Here are some ideas to get you started:
+- 🔭 Currently building projects with **Astro** and deploying on **Cloudflare**.
+- 🛠️ Daily stack: **TypeScript**, **Node.js**, **Python**, **SQLite**, and **Redis**.
+- 💻 Shell of choice: **PowerShell**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech & Tools
+
+**Frontend & Frameworks**
+`Astro` `HTML5` `CSS3` `JavaScript` `TypeScript`
+
+**Backend & Databases**
+`Node.js` `Python` `SQLite` `Redis`
+
+**Infrastructure & Scripting**
+`Cloudflare` `PowerShell`
