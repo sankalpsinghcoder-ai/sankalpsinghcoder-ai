@@ -53,7 +53,7 @@ I'm a student building full-stack web applications while diving deep into networ
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sankalpsinghcoder-ai&theme=dark)](https://git.io/streak-stats)
 
