@@ -57,4 +57,12 @@ I'm a student building full-stack web applications while diving deep into networ
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sankalpsinghcoder-ai&theme=dark)](https://git.io/streak-stats)
 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sankalpsinghcoder-ai&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sankalpsinghcoder-ai&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=sankalpsinghcoder-ai&icon=2&color=3)](https://visitcount.itsvg.in)
