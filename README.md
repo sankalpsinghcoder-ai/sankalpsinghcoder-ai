@@ -71,3 +71,9 @@ I'm a student building full-stack web applications while diving deep into networ
 <p align="center">
   <img src="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/output/github-snake.svg" alt="GitHub Snake Animation" />
 </p>
+
+---
+
+### online-c Insights
+
+<img width="1438" height="691" alt="image" src="https://github.com/user-attachments/assets/3032f207-d00f-4a95-9176-69fbc3034d80" />
