@@ -67,4 +67,3 @@ I'm a student building full-stack web applications while diving deep into networ
     </td>
   </tr>
 </table>
----
