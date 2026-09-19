@@ -77,7 +77,6 @@ I'm a student building full-stack web applications while diving deep into networ
 
 ---
 
-<h3 align="center">Productivity Metrics</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankalpsinghcoder-ai&theme=tokyo-night&hide_border=true&area=true&animation=true" alt="Animated Activity Graph" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+Profile!;Check+out+my+projects+below!%🚀" alt="Typing Banner" />
+</div>
