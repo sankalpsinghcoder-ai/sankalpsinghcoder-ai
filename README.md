@@ -66,8 +66,8 @@ I'm a student building full-stack web applications while diving deep into networ
     </td>
   </tr>
 </table> 
+
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/output/github-snake.svg" alt="GitHub Snake Animation" />
 </p>
----
