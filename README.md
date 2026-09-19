@@ -77,7 +77,7 @@ I'm a student building full-stack web applications while diving deep into networ
 
 ---
 
-<h3 align="center">Rotating Tech Stack</h3>
+<h3 align="center">Productivity Metrics</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/master/assets/langs.svg" width="100%" alt="Tech Stack Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankalpsinghcoder-ai&theme=tokyo-night&hide_border=true&area=true&animation=true" alt="Animated Activity Graph" />
 </p>
