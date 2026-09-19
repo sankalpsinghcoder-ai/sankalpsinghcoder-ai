@@ -77,7 +77,7 @@ I'm a student building full-stack web applications while diving deep into networ
 
 ---
 
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<h3 align="center">Rotating Tech Stack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,astro,cloudflare,git,github,vscode,tailwind&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/master/assets/langs.svg" width="100%" alt="Tech Stack Animation" />
 </p>
