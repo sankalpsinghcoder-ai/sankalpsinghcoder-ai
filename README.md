@@ -78,5 +78,5 @@ I'm a student building full-stack web applications while diving deep into networ
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankalpsinghcoder-ai&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="metrics.svg" alt="GitHub Metrics" />
 </p>
