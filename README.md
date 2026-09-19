@@ -52,24 +52,21 @@ I'm a student building full-stack web applications while diving deep into networ
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF69B4?style=for-the-badge&logo=lightning&logoColor=white)
 
 ---
-
 ### GitHub Stats
 
 <table>
   <tr>
     <td align="center">
       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpsinghcoder-ai&theme=dark" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpsinghcoder-ai&theme=dark" />
       </a>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpsinghcoder-ai&theme=tokyo-night&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sankalpsinghcoder-ai&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </td>
   </tr>
-</table>
-
+</table> 
 ---
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/output/github-snake.svg" alt="GitHub Snake Animation" />
 </p>
