@@ -59,11 +59,11 @@ I'm a student building full-stack web applications while diving deep into networ
   <tr>
     <td align="center">
       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpsinghcoder-ai&theme=dark" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpsinghcoder-ai&theme=dark" alt="GitHub Streak" />
       </a>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sankalpsinghcoder-ai&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpsinghcoder-ai&theme=tokyo-night&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
