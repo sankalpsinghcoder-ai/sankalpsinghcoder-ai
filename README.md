@@ -69,12 +69,6 @@ I'm a student building full-stack web applications while diving deep into networ
 
 ---
 
-### online-c Insights (as of 16th September, 2026); 40-60% impressions coming from AI
-
-<img width="1438" height="691" alt="image" src="https://github.com/user-attachments/assets/3032f207-d00f-4a95-9176-69fbc3034d80" />
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/output/github-snake.svg" alt="GitHub Snake Animation" />
 </p>
