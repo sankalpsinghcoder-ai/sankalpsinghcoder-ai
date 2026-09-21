@@ -51,6 +51,8 @@ I'm a student building full-stack web applications while diving deep into networ
 ![SEO & Keyword Research](https://img.shields.io/badge/SEO_%26_Keyword_Research-00A86B?style=for-the-badge&logo=google&logoColor=white)
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF69B4?style=for-the-badge&logo=lightning&logoColor=white)
 
+---
+
 <table>
   <tr>
     <td align="center">
