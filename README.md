@@ -49,7 +49,6 @@ I'm a student building full-stack web applications while diving deep into networ
 ![Antigravity](https://img.shields.io/badge/Antigravity-4A154B?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![SEO & Keyword Research](https://img.shields.io/badge/SEO_%26_Keyword_Research-00A86B?style=for-the-badge&logo=google&logoColor=white)
-![Google Trends](https://img.shields.io/badge/Google_Trends-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF69B4?style=for-the-badge&logo=lightning&logoColor=white)
 
 ---
