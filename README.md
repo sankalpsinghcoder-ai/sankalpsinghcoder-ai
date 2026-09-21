@@ -52,7 +52,6 @@ I'm a student building full-stack web applications while diving deep into networ
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF69B4?style=for-the-badge&logo=lightning&logoColor=white)
 
 ---
-### GitHub Stats
 
 <table>
   <tr>
