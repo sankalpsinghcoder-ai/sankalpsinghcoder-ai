@@ -61,10 +61,10 @@ I'm a student building full-stack web applications while diving deep into networ
       </a>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sankalpsinghcoder-ai&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sankalpsinghcoder-ai&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </td>
   </tr>
-</table> 
+</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/output/github-snake.svg" alt="GitHub Snake Animation" />
