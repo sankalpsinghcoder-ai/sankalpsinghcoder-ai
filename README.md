@@ -1,6 +1,6 @@
 ### Hello codedrunkards, I'm Sankalp Singh!
 
-I'm a student building full-stack web applications while diving deep into networking and automation. I also bring a year of hands-on experience in SEO and keyword research to make sure what I build actually gets found. 
+I'm a student building full-stack web applications and MCP servers while diving deep into networking and automation. I also bring a year of hands-on experience in SEO and keyword research to make sure what I build actually gets found. 
 
 - Building full-stack apps and refining workflows in **Antigravity** to ship solid, low-bug web apps through vibe coding.
 - Studying network architecture, traffic analysis, and system automation.
