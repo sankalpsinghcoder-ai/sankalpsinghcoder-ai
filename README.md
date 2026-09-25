@@ -50,8 +50,6 @@ I'm a student building full-stack web applications and MCP servers while diving 
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![SEO & Keyword Research](https://img.shields.io/badge/SEO_%26_Keyword_Research-00A86B?style=for-the-badge&logo=google&logoColor=white)
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF69B4?style=for-the-badge&logo=lightning&logoColor=white)
-![Agentic Engineering](https://img.shields.io/badge/Agentic_Engineering-2563EB?style=for-the-badge&logo=bot&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge&logo=diagram-next&logoColor=white)
 
 ---
 
