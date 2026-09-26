@@ -8,7 +8,7 @@ I'm a student building full-stack web applications and MCP servers while diving 
 
 ---
 
-### Tech & Tools
+### MY TECH STACK
 
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
