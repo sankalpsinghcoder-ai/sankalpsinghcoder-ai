@@ -8,7 +8,7 @@
 
 I'm a student building MCP servers while diving deep into networking and automation. I also bring a year of hands-on experience in SEO and keyword research to make sure what I build actually gets found. 
 
-- Building full-stack apps and refining workflows in **Antigravity, Claude Code & Codex** to ship solid, low-bug web apps through agentic engineering.
+- Building full-stack WAPs and refining workflows in **Antigravity, Claude Code & Codex** to ship solid, low-bug web apps through agentic engineering.
 - Studying network architecture, traffic analysis, and system automation.
 - Experienced in SEO strategies, keyword research, and search optimization.
 
