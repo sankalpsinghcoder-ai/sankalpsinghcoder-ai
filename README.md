@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Mehdi</h1>
+<h1 align="center">Hello codedrunkards, I'm Sankalp Singh!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E8A020&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%7C+Mobile+%7C+Web;Computer+Science+Graduate+(ISIL)+%40+ESST;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E8A020&center=true&vCenter=true&width=600&lines=MCP+Server+Dev+%7C+Networking+%7C+Agentic+Engineer" alt="Typing SVG" />
 </p>
 
 ---
