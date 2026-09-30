@@ -1,4 +1,3 @@
-<h1 align="center">Hello codedrunkards, I'm Sankalp Singh!</h1>
 <h1 align="center">Hello codedrunkards, I'm Sankalp Singh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100"></h1>
 
 <p align="center">
