@@ -1,7 +1,7 @@
 <h1 align="center">Hello codedrunkards, I'm Sankalp Singh!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size35&pause=1000&color=E8A020&center=true&vCenter=true&width=900&lines=MCP+Server+Developer+%7C+Networking+%7C+Agentic+Engineer;Typescript+%7C+Javascript+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size35&pause=1000&color=E8A020&center=true&vCenter=true&width=900&lines=MCP+Server+Developer+%7C+Networking+%7C+Agentic+Engineer" alt="Typing SVG" />
 </p>
 
 I'm a student building MCP servers while diving deep into networking and automation. I also bring a year of hands-on experience in SEO and keyword research to make sure what I build actually gets found. 
