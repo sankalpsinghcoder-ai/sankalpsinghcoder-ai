@@ -1,4 +1,4 @@
-<h1 align="center">Hello codedrunkards, I'm Sankalp Singh! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3d4dXJ4YnBvZTZ1eW5jaWlweHplMDUxd2MxeGsxMmhxamI5bThuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1NYkJ0wTvncdXV5dN5/giphy.gif" width="100"></h1>
+<h1 align="center">Hello codedrunkards, I'm Sankalp Singh! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWsxbm9uYnEwOGVuMmFoY3BsbzFqenN0OTlidmh1enEydW52cjU4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="100"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size35&pause=1000&color=E8A020&center=true&vCenter=true&width=900&lines=MCP+Server+Developer+%7C+Networking+%7C+Agentic+Engineer" alt="Typing SVG" />
