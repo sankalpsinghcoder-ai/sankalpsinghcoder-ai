@@ -1,7 +1,7 @@
 <h1 align="center">Hello codedrunkards, I'm Sankalp Singh!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size30&pause=1000&color=E8A020&center=true&vCenter=true&width=600&lines=MCP+Developer+%7C+Networking+%7C+Agentic+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size50&pause=1000&color=E8A020&center=true&vCenter=true&width=600&lines=MCP+Developer+%7C+Networking+%7C+Agentic+Engineer" alt="Typing SVG" />
 </p>
 
 ---
