@@ -1,5 +1,6 @@
 <h1 align="center">
-  Hello CodeDrunkards, I'm Sankalp Singh!  
+  Hello CodeDrunkards, I'm Sankalp Singh!
+  NOTE: TEXT IN THIS README ARE NOT AI-GENERATED! 🙃
   <img align="middle" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R4OXh0b2E0ZmJmam8ycG1uNmJoZXZ2NWdzbWZqbnk1NXp1ejY3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6TgcESZt8FFk8XV7K/giphy.gif" width="100">
 </h1>
 
@@ -75,7 +76,3 @@ I'm a student building MCP servers while learning networking and automation (BTW
 <p align="center">
   <img src="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/output/github-snake.svg" alt="GitHub Snake Animation" />
 </p>
-
----
-
-**NOTE: TEXT IN THIS README ARE NOT AI-GENERATED! 🙃**
