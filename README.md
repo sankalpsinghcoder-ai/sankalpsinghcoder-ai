@@ -9,13 +9,13 @@
 
 I'm a student building MCP servers while learning networking and automation (BTW, I love networking!). I also bring a year of hands-on experience in SEO and keyword research to make sure what I build actually gets found. (...If you're good at building, then you should be good at distribution!)
 
-- Building full-stack WAPs and improving workflows in **Antigravity, Claude Code, Cursor & Codex** to ship solid, low-bug web apps (not AI-Slop) through agentic engineering.
-- Studying network architecture, traffic analysis, and system automation.
-- Experienced in SEO strategies, keyword research, and search optimization.
+- Building full-stack WAPs and improving workflows in **Antigravity, Claude Code, Cursor & Codex** to ship solid, low-bug web apps (not that AI-Slop) through agentic engineering.
+- Studying network architecture and traffic analysis.
+- Experienced in keyword research (even made a tool for it, checkout that repo!) and SEO/GEO/AEO (whatever you call it).
 
 ---
 
-### THIS IS ALL I USE
+### THIS IS ALL I USE (THE FRAMEWORK I USE IS BETTER TO BE KEPT SECRET ...SHUU 🤫)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -78,4 +78,4 @@ I'm a student building MCP servers while learning networking and automation (BTW
 
 ---
 
-NOTE: TEXT IN THIS README ARE NOT AI GENERATED! 🙃
+**NOTE: TEXT IN THIS README ARE NOT AI-GENERATED! 🙃**
