@@ -13,7 +13,8 @@ I'm a student building MCP servers while learning networking and automation (BTW
 - Studying network architecture and traffic analysis.
 - Experienced in keyword research (even made a tool for it, [click here](https://github.com/sankalpsinghcoder-ai/keyword-tool)) and SEO/GEO/AEO (whatever you call it).
 
-NOTE: TEXT IN THIS README ARE NOT AI-GENERATED! 🙃
+- Note: Text in this readme are **not ai-generated** 😑
+
 ---
 
 ### THIS IS ALL I USE (THE FRAMEWORK I USE IS BETTER KEPT SECRET ...SHH 🤫)
