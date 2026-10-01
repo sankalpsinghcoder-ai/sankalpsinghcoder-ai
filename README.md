@@ -1,6 +1,5 @@
-<div align="center">
-  <h1>Hello codedrunkards, I'm Sankalp Singh!</h1>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R4OXh0b2E0ZmJmam8ycG1uNmJoZXZ2NWdzbWZqbnk1NXp1ejY3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6TgcESZt8FFk8XV7K/giphy.gif" width="100" />
+<div style="text-align: center;">
+  <h1>Hello codedrunkards, I'm Sankalp Singh!</h1> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R4OXh0b2E0ZmJmam8ycG1uNmJoZXZ2NWdzbWZqbnk1NXp1ejY3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6TgcESZt8FFk8XV7K/giphy.gif" width="100" />
 </div>
 
 <p align="center">
