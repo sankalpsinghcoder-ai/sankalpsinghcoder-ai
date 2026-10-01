@@ -1,7 +1,11 @@
-<h1 align="center">
-  Hello CodeDrunkards, I'm Sankalp Singh!
+<h1 align="center" style="color: #ffffff; margin-bottom: 4px;">
+  Hello CodeDrunkards, I'm Sankalp Singh!  
   <img align="middle" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R4OXh0b2E0ZmJmam8ycG1uNmJoZXZ2NWdzbWZqbnk1NXp1ejY3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6TgcESZt8FFk8XV7K/giphy.gif" width="100">
 </h1>
+
+<p align="center" style="margin-top: 0px; margin-bottom: 20px;">
+  <sub style="font-size: 13px; color: #888888;">NOTE: TEXT IN THIS README ARE NOT AI-GENERATED! 🙃</sub>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size35&pause=1000&color=E8A020&center=true&vCenter=true&width=900&lines=MCP+Server+Developer+%7C+Networking+%7C+Agentic+Engineer" alt="Typing SVG" />
