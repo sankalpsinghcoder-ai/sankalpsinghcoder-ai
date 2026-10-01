@@ -7,17 +7,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size35&pause=1000&color=E8A020&center=true&vCenter=true&width=900&lines=MCP+Server+Developer+%7C+Networking+%7C+Agentic+Engineer" alt="Typing SVG" />
 </p>
 
-I'm a student building MCP servers while diving deep into networking and automation. I also bring a year of hands-on experience in SEO and keyword research to make sure what I build actually gets found. 
+I'm a student building MCP servers while learning networking and automation (BTW, I love networking!). I also bring a year of hands-on experience in SEO and keyword research to make sure what I build actually gets found. (...If you're good at building, then you should be good at distribution!)
 
-- Building full-stack WAPs and refining workflows in **Antigravity, Claude Code & Codex** to ship solid, low-bug web apps through agentic engineering.
+- Building full-stack WAPs and improving workflows in **Antigravity, Claude Code, Cursor & Codex** to ship solid, low-bug web apps (not AI-Slop) through agentic engineering.
 - Studying network architecture, traffic analysis, and system automation.
 - Experienced in SEO strategies, keyword research, and search optimization.
 
 ---
 
-### MY TECH STACK
+### THIS IS ALL I USE
 
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -76,3 +75,7 @@ I'm a student building MCP servers while diving deep into networking and automat
 <p align="center">
   <img src="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/output/github-snake.svg" alt="GitHub Snake Animation" />
 </p>
+
+---
+
+NOTE: TEXT IN THIS README ARE NOT AI GENERATED! 🙃
