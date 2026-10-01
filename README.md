@@ -1,4 +1,4 @@
-<table width="100%" bgcolor="#0d1117" style="background-color: #0d1117; color: #ffffff;">
+<table width="100%" bgcolor="#000000" style="background-color: #0d1117; color: #ffffff;">
 <tr>
 <td style="padding: 24px; color: #ffffff;">
 
