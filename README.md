@@ -11,7 +11,7 @@ I'm a student building MCP servers while learning networking and automation (BTW
 
 - Building full-stack WAPs and improving workflows in **Antigravity, Claude Code, Cursor & Codex** to ship solid, low-bug web apps (not that AI-Slop) through agentic engineering.
 - Studying network architecture and traffic analysis.
-- Experienced in keyword research (even made a tool for it, [click here](https://github.com/sankalpsinghcoder-ai/keyword-tool)) and SEO/GEO/AEO (whatever you call it).
+- Experienced in keyword research and SEO/GEO/AEO (whatever you call it).
 
 
 **(Note: Text in this readme are not ai-generated 😑)**
