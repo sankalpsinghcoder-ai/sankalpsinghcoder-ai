@@ -13,9 +13,6 @@ I'm a student building MCP servers while learning networking and automation (BTW
 - Studying network architecture and traffic analysis.
 - Experienced in keyword research and SEO/GEO/AEO (whatever you call it).
 
-
-**(Note: Text in this readme are not ai-generated 😑)**
-
 ---
 
 ### THIS IS ALL I USE (THE FRAMEWORK I USE IS BETTER KEPT SECRET ...SHH 🤫)
