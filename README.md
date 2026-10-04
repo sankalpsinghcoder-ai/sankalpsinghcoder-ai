@@ -72,6 +72,8 @@ I'm a student building MCP servers while learning networking and automation (BTW
   </tr>
 </table>
 
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abirakhilji&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/output/github-snake.svg" alt="GitHub Snake Animation" />
 </p>
