@@ -67,12 +67,10 @@ I'm a student building MCP servers while learning networking and automation (BTW
       </a>
     </td>
     <td align="center">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sankalpsinghcoder-ai&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abirakhilji&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </td>
   </tr>
 </table>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sankalpsinghcoder-ai&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/output/github-snake.svg" alt="GitHub Snake Animation" />
