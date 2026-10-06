@@ -9,7 +9,7 @@
 
 I'm a student building MCP servers while learning networking and automation (BTW, I love networking!). I also bring a year of hands-on experience in SEO and keyword research to make sure what I build actually gets found. (...If you're good at **building**, you should be good at **distribution** too.)
 
-- Building full-stack WAPs and improving workflows in **Antigravity, Claude Code, Cursor & Codex** to ship solid, low-bug web apps (not that AI-Slop) through agentic engineering.
+- Building open-source and closed-source MCP servers that give AI agents the abilities they lack, and full-stack WAPs and improving workflows in **Antigravity, Claude Code, Cursor & Codex** to ship solid, low-bug web apps (not that AI-Slop) through agentic engineering.
 - Studying network architecture and traffic analysis.
 - Experienced in keyword research and SEO/GEO/AEO (whatever you call it).
 
