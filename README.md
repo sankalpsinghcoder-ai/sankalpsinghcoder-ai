@@ -78,4 +78,4 @@ I'm a student building MCP servers while learning networking and automation (BTW
 
 ---
 
-[![M8ven Verified](https://m8ven.ai/badge/mcp/sankalpsinghcoder-ai-browser-agents-mcp-uc6e25?variant=verified)](https://m8ven.ai/mcp/sankalpsinghcoder-ai-browser-agents-mcp-uc6e25?s=readme)
+[![M8ven Verified](https://m8ven.ai/badge/mcp/sankalpsinghcoder-ai-browser-agents-mcp-uc6e25)](https://m8ven.ai/mcp/sankalpsinghcoder-ai-browser-agents-mcp-uc6e25?s=readme)
