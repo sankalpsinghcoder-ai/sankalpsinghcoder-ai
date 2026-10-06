@@ -75,3 +75,7 @@ I'm a student building MCP servers while learning networking and automation (BTW
 <p align="center">
   <img src="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/output/github-snake.svg" alt="GitHub Snake Animation" />
 </p>
+
+---
+
+[![M8ven Verified](https://m8ven.ai/badge/mcp/sankalpsinghcoder-ai-browser-agents-mcp-uc6e25?variant=verified)](https://m8ven.ai/mcp/sankalpsinghcoder-ai-browser-agents-mcp-uc6e25?s=readme)
