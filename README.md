@@ -61,8 +61,6 @@ I'm a student building MCP servers while learning networking and automation (BTW
 ![Jules](https://img.shields.io/badge/Jules-6B46C1?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4A154B?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![SEO & Keyword Research](https://img.shields.io/badge/SEO_%26_Keyword_Research-00A86B?style=for-the-badge&logo=google&logoColor=white)
-![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF69B4?style=for-the-badge&logo=lightning&logoColor=white)
 
 ---
 
