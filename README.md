@@ -15,7 +15,9 @@ I'm a student building MCP servers while learning networking and automation (BTW
 
 ---
 
-### THIS IS ALL I USE
+<h1 align="center" style="color: #ffffff; margin-bottom: 4px;">
+  THIS IS ALL I USE
+</h1>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
