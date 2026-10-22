@@ -11,11 +11,11 @@ I'm a student building MCP servers while learning networking and automation (BTW
 
 - Building open-source and closed-source MCP servers that give AI agents the abilities they lack, and full-stack WAPs and improving workflows in **Antigravity, Claude Code, Cursor & Codex** to ship solid, low-bug web apps (not that AI-Slop) through agentic engineering.
 - Studying network architecture and traffic analysis.
-- Experienced in keyword research and SEO/GEO/AEO (whatever you call it).
+- Experienced in keyword research and SEO/GEO/AEO.
 
 ---
 
-### THIS IS ALL I USE (THE FRAMEWORK I USE IS BETTER KEPT SECRET ..SHH 🤫)
+### THIS IS ALL I USE
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
