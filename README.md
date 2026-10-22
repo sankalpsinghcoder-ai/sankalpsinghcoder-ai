@@ -15,7 +15,7 @@ I'm a student building MCP servers while learning networking and automation (BTW
 
 ---
 
-<h1 align="center" style="color: #ffffff; margin-bottom: 4px;">
+<h1 align="center" style="color: #ffffff; margin-bottom: 2px;">
   THIS IS ALL I USE
 </h1>
 
