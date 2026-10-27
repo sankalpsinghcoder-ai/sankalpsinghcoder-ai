@@ -68,6 +68,11 @@ I'm a student building MCP servers while learning networking and automation (BTW
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=deepseek&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-000000?style=for-the-badge&logo=qwen&logoColor=white)
 
+<a href="https://github.com/unslothai/unsloth">
+  <img src="https://githubusercontent.com" alt="Trained with Unsloth" width="150">
+</a>
+
+
 ---
 
 <table>
