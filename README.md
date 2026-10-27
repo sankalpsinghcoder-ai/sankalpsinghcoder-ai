@@ -55,7 +55,7 @@ I'm a student building MCP servers while learning networking and automation (BTW
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=git&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=databricks&logoColor=white)
-[![Unsloth](https://shields.io)](https://github.com/unslothai/unsloth)
+![Unsloth](https://img.shields.io/badge/Stitch-FF6C37?style=for-the-badge&logo=stitch&logoColor=white)
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
@@ -67,11 +67,6 @@ I'm a student building MCP servers while learning networking and automation (BTW
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=deepseek&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-000000?style=for-the-badge&logo=qwen&logoColor=white)
-
-<a href="https://github.com/unslothai/unsloth">
-  <img src="https://githubusercontent.com" alt="Trained with Unsloth" width="150">
-</a>
-
 
 ---
 
