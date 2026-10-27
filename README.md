@@ -78,5 +78,5 @@ I'm a student building MCP servers while learning networking and automation (BTW
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/output/github-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
 </p>
