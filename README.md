@@ -102,4 +102,4 @@ I'm a student building MCP servers while learning networking and automation (BTW
 
 ---
 
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/438903e9-328a-43c1-9d47-43658ff2fe29/page/GNGCG" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+[![My Website Traffic Map](https://render.my)](https://datastudio.google.com/embed/reporting/438903e9-328a-43c1-9d47-43658ff2fe29/page/GNGCG)
