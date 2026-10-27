@@ -99,7 +99,3 @@ I'm a student building MCP servers while learning networking and automation (BTW
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-[![My Website Traffic Map](https://render.my)](https://datastudio.google.com/embed/reporting/438903e9-328a-43c1-9d47-43658ff2fe29/page/GNGCG)
