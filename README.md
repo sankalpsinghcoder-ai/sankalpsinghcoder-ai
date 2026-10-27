@@ -64,8 +64,10 @@ I'm a student building MCP servers while learning networking and automation (BTW
 ![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white)
 ![Stitch](https://img.shields.io/badge/Stitch-FF6C37?style=for-the-badge&logo=stitch&logoColor=white)
 ![Jules](https://img.shields.io/badge/Jules-6B46C1?style=for-the-badge&logo=codeforces&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4A154B?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-000000?style=for-the-badge&logo=robot&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=deepseek&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-000000?style=for-the-badge&logo=qwen&logoColor=white)
 
 ---
 
