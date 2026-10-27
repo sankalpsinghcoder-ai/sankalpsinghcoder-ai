@@ -67,6 +67,7 @@ I'm a student building MCP servers while learning networking and automation (BTW
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=deepseek&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-000000?style=for-the-badge&logo=qwen&logoColor=white)
+![Clef--Flash](https://img.shields.io/badge/Clef--Flash-000000?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
