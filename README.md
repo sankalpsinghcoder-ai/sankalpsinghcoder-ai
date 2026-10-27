@@ -60,7 +60,7 @@ I'm a student building MCP servers while learning networking and automation (BTW
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![GA4](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white)
 ![Stitch](https://img.shields.io/badge/Stitch-FF6C37?style=for-the-badge&logo=stitch&logoColor=white)
 ![Jules](https://img.shields.io/badge/Jules-6B46C1?style=for-the-badge&logo=codeforces&logoColor=white)
