@@ -64,9 +64,9 @@ I'm a student building MCP servers while learning networking and automation (BTW
 ![Stitch](https://img.shields.io/badge/Stitch-FF6C37?style=for-the-badge&logo=stitch&logoColor=white)
 ![Jules](https://img.shields.io/badge/Jules-6B46C1?style=for-the-badge&logo=codeforces&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-615ced?style=for-the-badge&logo=qwen&logoColor=white)
-![Clef--Flash](https://img.shields.io/badge/Clef--Flash-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
