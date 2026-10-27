@@ -60,14 +60,14 @@ I'm a student building MCP servers while learning networking and automation (BTW
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![GA4](https://img.shields.io/badge/GA4-000000?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white)
 ![Stitch](https://img.shields.io/badge/Stitch-FF6C37?style=for-the-badge&logo=stitch&logoColor=white)
 ![Jules](https://img.shields.io/badge/Jules-6B46C1?style=for-the-badge&logo=codeforces&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=deepseek&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen-000000?style=for-the-badge&logo=qwen&logoColor=white)
-![Clef--Flash](https://img.shields.io/badge/Clef--Flash-000000?style=for-the-badge&logo=cloudflare&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-615ced?style=for-the-badge&logo=qwen&logoColor=white)
+![Clef--Flash](https://img.shields.io/badge/Clef--Flash-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
