@@ -17,11 +17,12 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Generate the Pac-Man animated SVG
+      # Generate the Pac-Man animated SVG with dark background
       - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          theme: dark
 
       # Push the generated output file to the output branch
       - name: Push Pacman SVG to output branch
