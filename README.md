@@ -80,9 +80,7 @@ I'm a student building MCP servers while learning networking and automation (BTW
 <table>
   <tr>
     <td align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=sankalpsinghcoder-ai&theme=dark" />
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api?username=sankalpsinghcoder-ai&theme=dark&show_icons=true&count_private=true" />
     </td>
     <td align="center">
       <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=sankalpsinghcoder-ai&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
