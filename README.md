@@ -77,19 +77,6 @@ I'm a student building MCP servers while learning networking and automation (BTW
 
 ---
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sankalpsinghcoder-ai&theme=dark&show_icons=true&count_private=true" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=sankalpsinghcoder-ai&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    </td>
-  </tr>
-</table>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/output/pacman-contribution-graph.svg">
