@@ -10,16 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      
       - name: Generate Streak Stats
-        uses: DenverCoder1/github-readme-streak-stats@v1.1.1
+        uses: DenverCoder1/github-readme-streak-stats-action@v1
         with:
           user: sankalpsinghcoder-ai
           theme: dark
-          path: streak.svg
+
       - name: Commit & Push SVG
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add streak.svg
+          git add profile-streak-stats.svg || true
           git commit -m "Update streak stats" || exit 0
           git push
