@@ -80,16 +80,13 @@ I'm a student building MCP servers while learning networking and automation (BTW
 <div align="center">
   <table>
     <tr>
-      <!-- Left: Repository Info -->
-      <td align="center" width="50%" style="padding: 20px;">
+      <td align="center" width="50%">
         <h3>💻 Repository</h3>
         <a href="https://github.com/sankalpsinghcoder-ai/online-c">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalpsinghcoder-ai&repo=online-c&theme=dark" alt="online-c repo" />
         </a>
       </td>
-      
-      <!-- Right: Sponsor Info -->
-      <td align="center" width="50%" style="padding: 20px;">
+      <td align="center" width="50%">
         <h3>💖 Official Sponsor</h3>
         <a href="https://github.com/ISM-Philippines" target="_blank">
           <img src="https://github.com/ISM-Philippines.png" width="90" height="90" style="border-radius: 50%; border: 2px solid #EA4AAA;" alt="ISM-Philippines" />
