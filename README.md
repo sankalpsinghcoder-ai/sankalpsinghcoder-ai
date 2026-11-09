@@ -77,6 +77,26 @@ I'm a student building MCP servers while learning networking and automation (BTW
 
 ---
 
+<div align="center">
+
+  <a href="https://github.com/ISM-Philippines" target="_blank">
+    <img src="https://img.shields.io/badge/Official_Sponsor-ISM--Philippines-EA4AAA?style=for-the-badge&logo=github&logoColor=white" alt="Sponsored by ISM-Philippines" />
+  </a>
+
+  <br /><br />
+
+  <a href="https://github.com/ISM-Philippines" target="_blank">
+    <img src="https://github.com/ISM-Philippines.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #EA4AAA;" alt="ISM-Philippines" />
+    <br />
+    <h2 style="margin-top: 10px;">ISM-Philippines</h2>
+  </a>
+
+  <p><i>Special thanks to <b>ISM-Philippines</b> for officially sponsoring and supporting this repository.</i></p>
+
+</div>
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/output/pacman-contribution-graph.svg">
