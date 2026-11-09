@@ -78,21 +78,31 @@ I'm a student building MCP servers while learning networking and automation (BTW
 ---
 
 <div align="center">
-
-  <a href="https://github.com/ISM-Philippines" target="_blank">
-    <img src="https://img.shields.io/badge/Official_Sponsor-ISM--Philippines-EA4AAA?style=for-the-badge&logo=github&logoColor=white" alt="Sponsored by ISM-Philippines" />
-  </a>
-
-  <br /><br />
-
-  <a href="https://github.com/ISM-Philippines" target="_blank">
-    <img src="https://github.com/ISM-Philippines.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #EA4AAA;" alt="ISM-Philippines" />
-    <br />
-    <h2 style="margin-top: 10px;">ISM-Philippines</h2>
-  </a>
-
-  <p><i>Special thanks to <b>ISM-Philippines</b> for officially sponsoring and supporting this repository.</i></p>
-
+  <table>
+    <tr>
+      <!-- Left: Repository Info -->
+      <td align="center" width="50%" style="padding: 20px;">
+        <h3>💻 Repository</h3>
+        <a href="https://github.com/sankalpsinghcoder-ai/online-c">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalpsinghcoder-ai&repo=online-c&theme=dark" alt="online-c repo" />
+        </a>
+      </td>
+      
+      <!-- Right: Sponsor Info -->
+      <td align="center" width="50%" style="padding: 20px;">
+        <h3>💖 Official Sponsor</h3>
+        <a href="https://github.com/ISM-Philippines" target="_blank">
+          <img src="https://github.com/ISM-Philippines.png" width="90" height="90" style="border-radius: 50%; border: 2px solid #EA4AAA;" alt="ISM-Philippines" />
+          <br /><br />
+          <b>ISM-Philippines</b>
+        </a>
+        <br /><br />
+        <a href="https://github.com/ISM-Philippines" target="_blank">
+          <img src="https://img.shields.io/badge/Sponsor-ISM--Philippines-EA4AAA?style=for-the-badge&logo=github&logoColor=white" alt="ISM-Philippines Badge" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
