@@ -80,14 +80,15 @@ I'm a student building MCP servers while learning networking and automation (BTW
 <div align="center">
   <table>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center" valign="middle" style="padding: 10px;">
         <a href="https://github.com/ISM-Philippines" target="_blank">
-          <img src="https://github.com/ISM-Philippines.png" width="80" height="80" style="border-radius: 50%; border: 2px solid #EA4AAA;" alt="ISM-Philippines Logo" />
+          <img src="https://github.com/ISM-Philippines.png" width="80" height="80" style="border-radius: 50%; display: block;" alt="ISM-Philippines Logo" />
         </a>
       </td>
-      <td align="left" valign="middle" style="padding-left: 15px;">
-        <h3>💖 Official Sponsor of the <a href="https://github.com/sankalpsinghcoder-ai/online-c" target="_blank">online-c</a> repo</h3>
-        <p>Special thanks to <b><a href="https://github.com/ISM-Philippines" target="_blank">ISM-Philippines</a></b> for supporting this project.</p>
+      <td align="left" valign="middle" style="padding: 10px 15px;">
+        <span style="font-size: 1.2em; font-weight: bold;">Official Sponsor of the <a href="https://github.com/sankalpsinghcoder-ai/online-c" target="_blank">online-c</a> repo</span>
+        <br />
+        <span>Special thanks to <b><a href="https://github.com/ISM-Philippines" target="_blank">ISM-Philippines</a></b> for supporting this project.</span>
       </td>
     </tr>
   </table>
