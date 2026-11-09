@@ -80,13 +80,19 @@ I'm a student building MCP servers while learning networking and automation (BTW
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="50%" valign="top">
         <h3>💻 Repository</h3>
-        <a href="https://github.com/sankalpsinghcoder-ai/online-c">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalpsinghcoder-ai&repo=online-c&theme=dark" alt="online-c repo" />
+        <a href="https://github.com/sankalpsinghcoder-ai/online-c" target="_blank">
+          <img src="https://github.com/sankalpsinghcoder-ai.png" width="90" height="90" style="border-radius: 50%; border: 2px solid #3178C6;" alt="online-c" />
+          <br /><br />
+          <b>online-c</b>
+        </a>
+        <br /><br />
+        <a href="https://github.com/sankalpsinghcoder-ai/online-c" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-online--c-3178C6?style=for-the-badge&logo=github&logoColor=white" alt="online-c Badge" />
         </a>
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="50%" valign="top">
         <h3>💖 Official Sponsor</h3>
         <a href="https://github.com/ISM-Philippines" target="_blank">
           <img src="https://github.com/ISM-Philippines.png" width="90" height="90" style="border-radius: 50%; border: 2px solid #EA4AAA;" alt="ISM-Philippines" />
