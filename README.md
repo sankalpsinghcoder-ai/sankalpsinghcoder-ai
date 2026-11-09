@@ -80,29 +80,14 @@ I'm a student building MCP servers while learning networking and automation (BTW
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%" valign="top">
-        <h3>💻 Repository</h3>
-        <a href="https://github.com/sankalpsinghcoder-ai/online-c" target="_blank">
-          <img src="https://github.com/sankalpsinghcoder-ai.png" width="90" height="90" style="border-radius: 50%; border: 2px solid #3178C6;" alt="online-c" />
-          <br /><br />
-          <b>online-c</b>
-        </a>
-        <br /><br />
-        <a href="https://github.com/sankalpsinghcoder-ai/online-c" target="_blank">
-          <img src="https://img.shields.io/badge/Repository-online--c-3178C6?style=for-the-badge&logo=github&logoColor=white" alt="online-c Badge" />
+      <td align="center" valign="middle">
+        <a href="https://github.com/ISM-Philippines" target="_blank">
+          <img src="https://github.com/ISM-Philippines.png" width="80" height="80" style="border-radius: 50%; border: 2px solid #EA4AAA;" alt="ISM-Philippines Logo" />
         </a>
       </td>
-      <td align="center" width="50%" valign="top">
-        <h3>💖 Official Sponsor</h3>
-        <a href="https://github.com/ISM-Philippines" target="_blank">
-          <img src="https://github.com/ISM-Philippines.png" width="90" height="90" style="border-radius: 50%; border: 2px solid #EA4AAA;" alt="ISM-Philippines" />
-          <br /><br />
-          <b>ISM-Philippines</b>
-        </a>
-        <br /><br />
-        <a href="https://github.com/ISM-Philippines" target="_blank">
-          <img src="https://img.shields.io/badge/Sponsor-ISM--Philippines-EA4AAA?style=for-the-badge&logo=github&logoColor=white" alt="ISM-Philippines Badge" />
-        </a>
+      <td align="left" valign="middle" style="padding-left: 15px;">
+        <h3>💖 Official Sponsor of the <a href="https://github.com/sankalpsinghcoder-ai/online-c" target="_blank">online-c</a> repo</h3>
+        <p>Special thanks to <b><a href="https://github.com/ISM-Philippines" target="_blank">ISM-Philippines</a></b> for supporting this project.</p>
       </td>
     </tr>
   </table>
