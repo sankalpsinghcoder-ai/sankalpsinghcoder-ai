@@ -36,9 +36,16 @@ I'm a student building MCP servers while learning networking and automation (BTW
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/BullMQ-E11D48?style=for-the-badge&logo=redis&logoColor=white" />
   <br />
+  <img src="https://img.shields.io/badge/Commander.js-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ink-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Execa-2B3137?style=for-the-badge&logo=windowsterminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
   <img src="https://img.shields.io/badge/Proxy_Agents-333333?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arquero-4F46E5?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Math.js-D97706?style=for-the-badge&logo=javascript&logoColor=white" />
+  <br />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
   <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black" />
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
