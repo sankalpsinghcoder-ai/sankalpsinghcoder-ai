@@ -36,6 +36,7 @@ I'm a student building MCP servers while learning networking and automation (BTW
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
   <img src="https://img.shields.io/badge/ngrok-1F1E2E?style=for-the-badge&logo=ngrok&logoColor=white" />
   <img src="https://img.shields.io/badge/Proxy_Agents-333333?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white" />
   <img src="https://img.shields.io/badge/Commander.js-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
