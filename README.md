@@ -59,7 +59,7 @@ I'm a student building MCP servers while learning networking and automation (BTW
   <br />
   <img src="https://img.shields.io/badge/Qwen-615ced?style=for-the-badge&logo=qwen&logoColor=white" />
   <img src="https://img.shields.io/badge/Kimi-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <br />
