@@ -17,6 +17,7 @@ I'm a student building MCP servers while learning networking and automation (BTW
 
 ### --- THIS IS ALL I USE ---
 
+<p>
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -38,6 +39,9 @@ I'm a student building MCP servers while learning networking and automation (BTW
   <img src="https://img.shields.io/badge/Proxy_Agents-333333?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/Arquero-4F46E5?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Math.js-D97706?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers.js-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/simple--statistics-3178C6?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
   <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" />
@@ -72,10 +76,8 @@ I'm a student building MCP servers while learning networking and automation (BTW
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   <img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" />
   <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white" />
+</p>
 
-  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers.js-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/simple--statistics-3178C6?style=for-the-badge&logo=javascript&logoColor=white" />
 ---
 
 <div align="center">
