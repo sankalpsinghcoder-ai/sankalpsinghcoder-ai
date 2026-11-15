@@ -39,7 +39,6 @@ I'm a student building MCP servers while learning networking and automation (BTW
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white" />
   <img src="https://img.shields.io/badge/Commander.js-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ink-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Execa-2B3137?style=for-the-badge&logo=windowsterminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Math.js-D97706?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -50,7 +49,6 @@ I'm a student building MCP servers while learning networking and automation (BTW
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
   <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/BullMQ-E11D48?style=for-the-badge&logo=redis&logoColor=white" />
