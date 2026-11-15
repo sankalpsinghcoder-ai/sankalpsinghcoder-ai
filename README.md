@@ -57,6 +57,7 @@ I'm a student building MCP servers while learning networking and automation (BTW
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Langflow-00C9A7?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex.TS-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
