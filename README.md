@@ -15,7 +15,7 @@ I'm a student building MCP servers while learning networking and automation (BTW
 
 ---
 
-## THIS IS ALL I USE -----------------------------------------------------------------------------
+## --- THIS IS ALL I USE 
 
 <p>
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
