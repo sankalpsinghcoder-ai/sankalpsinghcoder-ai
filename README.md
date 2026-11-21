@@ -83,10 +83,6 @@ I'm a student building MCP servers while learning networking and automation (BTW
 
 ---
 
-![Contribution City](https://www.gitskins.com/api/section/city?username=sankalpsinghcoder-ai&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230411635%3Fu%3D9519c876ced872189f9a0ff35483f3c61b63382e%26v%3D4&pv=lfqDiKzdXP5AbZHx)
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sankalpsinghcoder-ai/sankalpsinghcoder-ai/output/pacman-contribution-graph.svg">
