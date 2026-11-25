@@ -4,14 +4,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size35&pause=1000&color=E8A020&center=true&vCenter=true&width=900&lines=MCP+Server+Developer+%7C+Networking+%7C+Agentic+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size35&pause=1000&color=E8A020&center=true&vCenter=true&width=900&lines=Full+Stack+WAPs+and+MCP+Server+Developer+%7C+IT+Infrastructure" alt="Typing SVG" />
 </p>
 
-I'm a student building MCP servers while learning networking and automation (BTW, I love networking!). I also bring a year of hands-on experience in SEO and keyword research to make sure what I build actually gets found. (...If you're good at **building**, you should be good at **distribution** too.)
+I'm a student building Full-Stack WAPs & MCP servers while learning networking and automation (BTW, I love networking!). I also bring a year of hands-on experience in SEO and keyword research to make sure what I build actually gets found. (...If you're good at **building**, you should be good at **distribution** too.)
 
-- Building open-source and closed-source MCP servers that give AI agents the abilities they lack, and full-stack WAPs and improving workflows in **Antigravity, Claude Code, Cursor & Codex** to ship solid, low-bug web apps (not that AI-Slop) through agentic engineering.
-- Studying network architecture and traffic analysis.
-- Experienced in keyword research and SEO/GEO/AEO.
+- Building open-source and closed-source MCP servers that give AI agents the abilities they lack, and full-stack WAPs and improving workflows in Agentic AI to ship solid, low-bug web apps (not that AI-Slop)
+- Studying network architecture and traffic analysis
+- Experienced in keyword research and SEO/GEO/AEO
 
 ---
 
