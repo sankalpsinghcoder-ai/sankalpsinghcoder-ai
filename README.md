@@ -4,13 +4,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size35&pause=1000&color=E8A020&center=true&vCenter=true&width=900&lines=Full-Stack+WAPs+%7C+WAPs+Security/Penetration+%7C+IT+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size35&pause=1000&color=E8A020&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Web+AppSec+%7C+IT+Infrastructure" alt="Typing SVG" />
 </p>
 
-I'm a student building Full-Stack WAPs with a focus on WAP security (because of Agentic AI attacks). I'm also learning networking and automation (BTW, I love networking!). I have a year of hands-on experience in SEO and keyword research so that what I build actually gets found. (If you are good at building, you should be good at distribution too.)
+I'm a student building Full-Stack Web Applications, and moving along with Web AppSec (because of AI-driven attacks) and IT Infrastructure Engineering. I have a year of hands-on experience in SEO and keyword research so that what I build actually gets found. (If you are good at building, you should be good at distribution too.)
 
-- Building full-stack WAPs and improving workflows in Agentic AI to ship solid, low-bug web apps (not that AI-Slop)
-- Studying WAP security, network architecture, and traffic analysis
+- Building full-stack web apps and improving development workflows to ship solid, low-bug web apps (not that AI-Slop)
+- Studying web application security
+- Learning IT infrastructure, structured cabling, and data center operations
 - Experienced in keyword research and SEO/GEO/AEO
 
 ---
@@ -45,10 +46,6 @@ I'm a student building Full-Stack WAPs with a focus on WAP security (because of 
   <img src="https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white" />
   <img src="https://img.shields.io/badge/Commander.js-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Execa-2B3137?style=for-the-badge&logo=windowsterminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Math.js-D97706?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers.js-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/simple--statistics-3178C6?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Arquero-4F46E5?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -62,10 +59,8 @@ I'm a student building Full-Stack WAPs with a focus on WAP security (because of 
   <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Langflow-00C9A7?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/LlamaIndex.TS-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   <img src="https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
@@ -74,6 +69,8 @@ I'm a student building Full-Stack WAPs with a focus on WAP security (because of 
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-46769B?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
   <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
