@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size35&pause=1000&color=E8A020&center=true&vCenter=true&width=900&lines=Full-Stack+WAPs+%7C+WAPs+Security+Engineer+%7C+IT+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size35&pause=1000&color=E8A020&center=true&vCenter=true&width=900&lines=Full-Stack+WAPs+%7C+WAPs+Security/Penetration+%7C+IT+Infrastructure" alt="Typing SVG" />
 </p>
 
 I'm a student building Full-Stack WAPs with a focus on WAP security (because of Agentic AI attacks). I'm also learning networking and automation (BTW, I love networking!). I have a year of hands-on experience in SEO and keyword research so that what I build actually gets found. (If you are good at building, you should be good at distribution too.)
