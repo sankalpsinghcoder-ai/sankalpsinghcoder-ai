@@ -71,8 +71,8 @@ I'm a student building Full-Stack Web Applications, and moving along with Web Ap
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-46769B?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
-  <img src="https://img.shields.io/badge/mitmproxy-FF6600?style=for-the-badge&logo=mitmproxy&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTTP_Toolkit-E1421F?style=for-the-badge&logo=httptoolkit&logoColor=white" />
+  <img src="https://img.shields.io/badge/mitmproxy-FF6600?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTUtMTAtNXptMCA2LjVMNC41IDVMMTIgMS41IDE5LjUgNSAxMiA4LjV6TTIgMTJsMTAgNSAxMC01LTIuMi0xLjFMMTIgMTQuOGwtNy44LTMuOUwyIDEyem0wIDVsMTAgNSAxMC01LTIuMi0xLjFMMTIgMTkuOGwtNy44LTMuOUwyIDE3eiIvPjwvc3ZnPg==" />
+  <img src="https://img.shields.io/badge/HTTP_Toolkit-E1421F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik00IDRoNHY2aDhWNGg0djE2aC00di02SDh2Nkg0VjR6Ii8+PC9zdmc+" />
   <img src="https://img.shields.io/badge/John_the_Ripper-2B2B2B?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white" />
