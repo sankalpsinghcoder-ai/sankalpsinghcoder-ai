@@ -75,7 +75,6 @@ I'm a student building **Full-Stack** Web Applications (using **HEAT** stack), a
   <img src="https://img.shields.io/badge/HTTP_Toolkit-E1421F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+PHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iNCIvPjxjaXJjbGUgY3g9IjgiIGN5PSI5IiByPSIxIiBmaWxsPSJ3aGl0ZSIvPjxjaXJjbGUgY3g9IjgiIGN5PSIxNSIgcj0iMSIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMTMgN2wtMiAxMCIvPjxwYXRoIGQ9Ik0xNyA3bC0yIDEwIi8+PC9zdmc+" />
   <img src="https://img.shields.io/badge/John_the_Ripper-2B2B2B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik04IDNoOGwxIDZIN2wxLTZ6TTUgOWgxNHYySDVWOXptMiAzaDEwYzIgMCAzIDIgMyA1djRoLTR2LTRIODB2NEg0di00YzAtMyAxLTUgMy01eiIvPjwvc3ZnPg==" />
   <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Clarity-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" /> 
