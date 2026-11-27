@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size35&pause=1000&color=E8A020&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Web+AppSec+%7C+IT+Infrastructure" alt="Typing SVG" />
 </p>
 
-I'm a student building Full-Stack Web Applications (using AHA framework and PEAN stack), and moving along with Web App Security (because of AI-driven attacks) and IT Infrastructure Engineering. I have a year of hands-on experience in SEO and keyword research so that what I build actually gets found. (If you are good at building, you should be good at distribution too.)
+I'm a student building Full-Stack Web Applications (using HEAT stack), and moving along with Web App Security (because of AI-driven attacks) and IT Infrastructure Engineering. I have a year of hands-on experience in SEO and keyword research so that what I build actually gets found. (If you are good at building, you should be good at distribution too.)
 
 - Building full-stack web apps and improving development workflows to ship solid, low-bug web apps (not that AI-Slop)
 - Specializing in and mastering JavaScript
@@ -24,7 +24,6 @@ I'm a student building Full-Stack Web Applications (using AHA framework and PEAN
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/htmx-3366CC?style=for-the-badge&logo=htmx&logoColor=white" />
   <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
