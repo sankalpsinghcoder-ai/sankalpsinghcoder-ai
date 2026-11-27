@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size35&pause=1000&color=E8A020&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Web+AppSec+%7C+IT+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size35&pause=1000&color=E8A020&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer+%7C+Web+AppSec+%7C+IT+Infrastructure" alt="Typing SVG" />
 </p>
 
 I'm a student building **Full-Stack** Web Applications (using **HEAT** stack), and moving along with **Web App Security** (because of AI-driven attacks) and **IT Infrastructure Engineering.** I have a year of hands-on experience in SEO and keyword research so that what I build actually gets found. (If you are good at building, you should be good at distribution too.)
