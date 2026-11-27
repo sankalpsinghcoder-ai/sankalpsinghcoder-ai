@@ -10,6 +10,7 @@
 I'm a student building Full-Stack Web Applications, and moving along with Web App Security (because of AI-driven attacks) and IT Infrastructure Engineering. I have a year of hands-on experience in SEO and keyword research so that what I build actually gets found. (If you are good at building, you should be good at distribution too.)
 
 - Building full-stack web apps and improving development workflows to ship solid, low-bug web apps (not that AI-Slop)
+- Specializing in and mastering JavaScript
 - Studying web application security
 - Learning IT infrastructure, structured cabling, and data center operations
 - Experienced in keyword research and SEO/GEO/AEO
